@@ -1,11 +1,11 @@
 '''
-6.0 Jedi Training (15pts)  Name:________________
+6.0 Jedi Training (15pts)  Name:Thomas Mitchell
 
 
 1.) Convert Binary 101010 to Hexadecimal. (1pt)
-
+42 in hexa
 2.) Convert Binary 11101001 to Octal. (1pt)
-
+                  351
 3.) Convert Hexadecimal FC to Binary. (1pt)
 
 4.) Convert Hexadecimal 1F to Decimal. (1pt)
