@@ -17,7 +17,7 @@
 7.) Convert RGB (32,128,64) to Hexadecimal. (1pt)
                   208040
 8.) Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII. (1pt)
-
+                            ASCII
 9.) Reached 2000 on the Binary Game? Upload screen shot!  (7pt)
 https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw
 
